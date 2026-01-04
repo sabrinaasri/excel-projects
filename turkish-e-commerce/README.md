@@ -1,6 +1,24 @@
-# Turkish E-Commerce analysis
+﻿# Turkish E-Commerce analysis
 
 This comprehensive dataset contains **5,000 e-commerce transactions** from a Turkish online retail platform from January 2023 to March 2024.
+
+### Project Overview
+This project showcases excel skills in data cleaning and preparation, as well as data visualization techniques to analyze e-commerce trends in Turkey.
+
+📌 Tools used: Microsoft Excel\
+📌 Skills demonstrated: Data Cleaning and preparation, power query, pivot tables, data vizualization with charts and dashboard design
+
+### 🎯 Objectives
+- Customer Demographics Distribution
+- Geographical Sales Analysis
+- Product Category Performance
+- Payment and Device Analysis
+- Discount Analysis
+- Customer Behavior
+- Post-Purchase Satisfaction
+- Seasonal Sales Trends
+
+---
 
 The dataset contains **18 columns** with the following features:
 
@@ -22,6 +40,9 @@ The dataset contains **18 columns** with the following features:
 ### Transaction Details
 - **Discount_Amount**: Discount applied (if any)
 - **Total_Amount**: Final transaction amount after discount
+- **Total_Price**: Total price for all items purchased before discount
+- **Discount_Percentage**: Percentage of discount applied (0-50%)
+- **Total_Discount_Amount**: Total discount amount applied
 - **Payment_Method**: Payment method used (5 types)
 
 ### Customer Behavior Metrics
@@ -33,4 +54,28 @@ The dataset contains **18 columns** with the following features:
 ### Post-Purchase Metrics
 - **Delivery_Time_Days**: Delivery duration (1-30 days)
 - **Customer_Rating**: Customer satisfaction rating (1-5 stars)
+---
 
+### 🧹 Data Cleaning & Preparation
+
+Before analysis, I performed several data-cleaning steps in power query:
+- Removed duplicates and blank rows
+- Removed unnecessary spaces
+- Standardized text formatting
+- Converted data types 
+- Created helper columns to support calculations (e.g., Total_Price, Discount_Percentage)
+
+### 📊 Data Visualization & Analysis
+### Customer Demographics Distribution
+
+**Gender Distribution**
+
+<img src="chart-screenshots/gender-distributions.png" width="500" alt="Dashboard">
+
+This e-commerce platform is dominated by female.
+
+**Age Group Distribution**
+
+<img src="chart-screenshots/age-group-distribution.png" width="500" alt="Dashboard">
+
+Majority of customers are between 25-34 years old, followed by 35-44 years old.
