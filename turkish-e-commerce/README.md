@@ -76,6 +76,32 @@ This e-commerce platform is dominated by female.
 
 **Age Group Distribution**
 
-<img src="chart-screenshots/age-group-distribution.png" width="500" alt="Dashboard">
+<img src="chart-screenshots/age-group-by-gender.png" width="500" alt="Dashboard">
+
+<img src="chart-screenshots/age-group.png" width="500" alt="Dashboard">
 
 Majority of customers are between 25-34 years old, followed by 35-44 years old.
+
+
+**Total Customers by City**
+
+<img src="chart-screenshots/total-customers.png" width="500" alt="Dashboard">
+
+Istanbul has the highest number of customers, followed by Ankara and Izmir.
+
+
+### Geographical Sales Analysis
+
+**Sales by City**
+
+<img src="chart-screenshots/sales-by-city1.png" width="500" alt="Dashboard">
+
+Istanbul leads in sales amounted 5.646.595,78 TRY, followed by Ankara and Izmir.
+
+
+**Top Cities by Number of Orders**
+
+<img src="chart-screenshots/total-order-by-city.png" width="500" alt="Dashboard">
+
+Istanbul has the highest number of orders, followed by Ankara and Izmir. Some of the orders
+may come from returning customers.
