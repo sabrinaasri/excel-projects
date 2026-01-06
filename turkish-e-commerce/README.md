@@ -65,14 +65,16 @@ Before analysis, I performed several data-cleaning steps in power query:
 - Converted data types 
 - Created helper columns to support calculations (e.g., Total_Price, Discount_Percentage)
 
+---
+
 ### 📊 Data Visualization & Analysis
-### Customer Demographics Distribution
+### 👥 Customer Demographics Distribution
 
 **Gender Distribution**
 
 <img src="chart-screenshots/gender-distributions.png" width="500" alt="Dashboard">
 
-This e-commerce platform is dominated by female.
+This e-commerce platform is dominated by female customers.
 
 **Age Group Distribution**
 
@@ -90,7 +92,7 @@ Majority of customers are between 25-34 years old, followed by 35-44 years old.
 Istanbul has the highest number of customers, followed by Ankara and Izmir.
 
 
-### Geographical Sales Analysis
+### 📍 Geographical Sales Analysis
 
 **Sales by City**
 
@@ -99,9 +101,40 @@ Istanbul has the highest number of customers, followed by Ankara and Izmir.
 Istanbul leads in sales amounted 5.646.595,78 TRY, followed by Ankara and Izmir.
 
 
-**Top Cities by Number of Orders**
+**Total Order by City**
 
 <img src="chart-screenshots/total-order-by-city.png" width="500" alt="Dashboard">
 
 Istanbul has the highest number of orders, followed by Ankara and Izmir. Some of the orders
 may come from returning customers.
+
+Based on the charts conclude that number of orders is directly proportional to sales amount.
+
+
+### 🛍️ Product Category Performance
+### Sales by Product Category
+<img src="chart-screenshots/sales-by-product-category.png" width="500" alt="Dashboard">
+
+Electronics is the top-selling product category, followed by Fashion and Home & Garden.
+
+### Number of Orders by Product Category
+<img src="chart-screenshots/total-order-by-product-category.png" width="500" alt="Dashboard">
+
+Sports category has the highest number of orders, followed by Electronics and Fashion.
+This indicates that while Electronics generates the most revenue, Sports products are purchased more frequently.
+As of price-wise, Electronics items are generally higher in price compared to Sports items.
+
+### 💳 Payment and Device Analysis
+**Payment Method Distribution**
+<img src="chart-screenshots/payment-method.png" width="500" alt="Dashboard">
+
+Credit card is the most preferred payment method, followed by debit card and digital wallets.
+
+**Payment Method Distribution by Total Sales Amount**
+<img src="chart-screenshots/payment-method-by-total-sales.png" width="500" alt="Dashboard">
+
+Credit card contributes the highest sales amount, followed by debit card and digital wallets.
+
+**Payment Method Distribution by Product Category**
+<img src="chart-screenshots/payment-method-by-total-sales.png" width="500" alt="Dashboard">
+
