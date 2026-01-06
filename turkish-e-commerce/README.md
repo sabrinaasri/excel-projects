@@ -112,13 +112,13 @@ Based on the charts conclude that number of orders is directly proportional to s
 
 
 ### 🛍️ Product Category Performance
- **Sales by Product Category**
+**Sales by Product Category**
 
 <img src="chart-screenshots/sales-by-product-category.png" width="500" alt="Dashboard">
 
 Electronics is the top-selling product category, followed by Fashion and Home & Garden.
 
-**## **Number of Orders by Product Category**
+**Number of Orders by Product Category**
 
 <img src="chart-screenshots/total-order-by-product-category.png" width="500" alt="Dashboard">
 
