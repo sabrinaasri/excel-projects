@@ -112,12 +112,14 @@ Based on the charts conclude that number of orders is directly proportional to s
 
 
 ### 🛍️ Product Category Performance
-### Sales by Product Category
+ **Sales by Product Category**
+
 <img src="chart-screenshots/sales-by-product-category.png" width="500" alt="Dashboard">
 
 Electronics is the top-selling product category, followed by Fashion and Home & Garden.
 
-### Number of Orders by Product Category
+**## **Number of Orders by Product Category**
+
 <img src="chart-screenshots/total-order-by-product-category.png" width="500" alt="Dashboard">
 
 Sports category has the highest number of orders, followed by Electronics and Fashion.
@@ -126,15 +128,17 @@ As of price-wise, Electronics items are generally higher in price compared to Sp
 
 ### 💳 Payment and Device Analysis
 **Payment Method Distribution**
+
 <img src="chart-screenshots/payment-method.png" width="500" alt="Dashboard">
 
 Credit card is the most preferred payment method, followed by debit card and digital wallets.
 
 **Payment Method Distribution by Total Sales Amount**
+
 <img src="chart-screenshots/payment-method-by-total-sales.png" width="500" alt="Dashboard">
 
 Credit card contributes the highest sales amount, followed by debit card and digital wallets.
 
 **Payment Method Distribution by Product Category**
-<img src="chart-screenshots/payment-method-by-total-sales.png" width="500" alt="Dashboard">
+
 
