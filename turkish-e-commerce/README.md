@@ -3,10 +3,10 @@
 This comprehensive dataset contains **5,000 e-commerce transactions** from a Turkish online retail platform from January 2023 to March 2024.
 
 ### Project Overview
-This project showcases excel skills in data cleaning and preparation, as well as data visualization techniques to analyze e-commerce trends in Turkey.
+This project showcases Excel skills in data cleaning and preparation, as well as data visualization techniques to analyze e-commerce trends in Turkey.
 
-📌 Tools used: Microsoft Excel\
-📌 Skills demonstrated: Data Cleaning and preparation, power query, pivot tables, data vizualization with charts and dashboard design
+📌 Tools used: Microsoft Excel
+📌 Skills demonstrated: Data cleaning and preparation, Power Query, pivot tables, data visualization with charts and dashboard design
 
 ### 🎯 Objectives
 - Customer Demographics Distribution
@@ -58,11 +58,11 @@ The dataset contains **18 columns** with the following features:
 
 ### 🧹 Data Cleaning & Preparation
 
-Before analysis, I performed several data-cleaning steps in power query:
+Before analysis, I performed several data-cleaning steps in Power Query:
 - Removed duplicates and blank rows
 - Removed unnecessary spaces
 - Standardized text formatting
-- Converted data types 
+- Converted data types
 - Created helper columns to support calculations (e.g., Total_Price, Discount_Percentage)
 
 ---
@@ -82,7 +82,7 @@ This e-commerce platform is dominated by female customers.
 
 <img src="chart-screenshots/age-group.png" width="500" alt="Dashboard">
 
-Majority of customers are between 25-34 years old, followed by 35-44 years old.
+The majority of customers are between 25-34 years old, followed by 35-44 years old.
 
 
 **Total Customers by City**
@@ -98,17 +98,16 @@ Istanbul has the highest number of customers, followed by Ankara and Izmir.
 
 <img src="chart-screenshots/sales-by-city1.png" width="500" alt="Dashboard">
 
-Istanbul leads in sales amounted 5.646.595,78 TRY, followed by Ankara and Izmir.
+Istanbul leads in sales, amounting to 5,646,595.78 TRY, followed by Ankara and Izmir.
 
 
-**Total Order by City**
+**Total Orders by City**
 
 <img src="chart-screenshots/total-order-by-city.png" width="500" alt="Dashboard">
 
-Istanbul has the highest number of orders, followed by Ankara and Izmir. Some of the orders
-may come from returning customers.
+Istanbul has the highest number of orders, followed by Ankara and Izmir. Some orders may come from returning customers.
 
-Based on the charts conclude that number of orders is directly proportional to sales amount.
+Based on the charts, the number of orders is directly proportional to sales amount.
 
 
 ### 🛍️ Product Category Performance
@@ -122,33 +121,32 @@ Electronics is the top-selling product category, followed by Fashion and Home & 
 
 <img src="chart-screenshots/total-order-by-product-category.png" width="500" alt="Dashboard">
 
-Sports category has the highest number of orders, followed by Electronics and Fashion.
-This indicates that while Electronics generates the most revenue, Sports products are purchased more frequently.
-As of price-wise, Electronics items are generally higher in price compared to Sports items.
+The Sports category has the highest number of orders, followed by Electronics and Fashion. This indicates that while Electronics generates the most revenue, Sports products are purchased more frequently.
+In terms of price, Electronics items are generally higher priced compared to Sports items.
 
 ### 💳 Payment and Device Analysis
 **Payment Method Distribution**
 
 <img src="chart-screenshots/payment-method.png" width="500" alt="Dashboard">
 
-Credit card is the most preferred payment method, followed by debit card and digital wallets.
+Credit cards are the most preferred payment method, followed by debit cards and digital wallets.
 
 **Payment Method Distribution by Total Sales Amount**
 
 <img src="chart-screenshots/payment-method-by-total-sales.png" width="500" alt="Dashboard">
 
-Credit card contributes the highest sales amount, followed by debit card and digital wallets.
+Credit cards contribute the highest sales amount, followed by debit cards and digital wallets.
 
 **Payment Method Distribution by Product Category**
 
 <img src="chart-screenshots/payment-method-by-product-category.png" width="500" alt="Dashboard">
 
-Costumers prefer to used credit card to do the transaction on every product category, followed by debit card and digital wallets.
-It aligns too with its contribution to the sales.
+Customers prefer to use credit cards for transactions across all product categories, followed by debit cards and digital wallets.This aligns with their contribution to sales.
 
 **Payment Method by Age**
 
 <img src="chart-screenshots/payment-method-by-age.png" width="500" alt="Dashboard">
+
 
 
 
