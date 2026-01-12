@@ -141,4 +141,14 @@ Credit card contributes the highest sales amount, followed by debit card and dig
 
 **Payment Method Distribution by Product Category**
 
+<img src="chart-screenshots/payment-method-by-product-category.png" width="500" alt="Dashboard">
+
+Costumers prefer to used credit card to do the transaction on every product category, followed by debit card and digital wallets.
+It aligns too with its contribution to the sales.
+
+**Payment Method by Age**
+
+<img src="chart-screenshots/payment-method-by-age.png" width="500" alt="Dashboard">
+
+
 
