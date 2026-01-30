@@ -6,17 +6,43 @@ This comprehensive dataset contains **5,000 e-commerce transactions** from a Tur
 This project showcases Excel skills in data cleaning and preparation, as well as data visualization techniques to analyze e-commerce trends in Turkey.
 
 📌 Tools used: Microsoft Excel
+
 📌 Skills demonstrated: Data cleaning and preparation, Power Query, pivot tables, data visualization with charts and dashboard design
 
 ### 🎯 Objectives
 - Customer Demographics Distribution
+
+Which age group spend the most? Which product categories are preferred?
+
 - Geographical Sales Analysis
+
+Which cities generate the highest sales? How do sales vary across regions?
+
 - Product Category Performance
+
+- Which product categories drive the most revenue? Which categories have the highest order volume?
+What is the average order value? 
+
 - Payment and Device Analysis
+
+Which payment methods are most preffered? What devices do customers use?
+How long do customers spend on each device? What is the average number of pages viewed per session? 
+
 - Discount Analysis
+
+What is the impact of discounts on sales? Which age groups benefit the most from discounts?
+
 - Customer Behavior
+
+What is the proportion of returning customers?
+
 - Post-Purchase Satisfaction
+
+How satisfied are customers with their purchases? What is the average delivery time?
+
 - Seasonal Sales Trends
+
+When is the highest sales period? Are there any seasonal patterns?
 
 ---
 
