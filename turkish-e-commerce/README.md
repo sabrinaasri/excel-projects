@@ -78,12 +78,16 @@ This e-commerce platform is dominated by female customers.
 
 **Age Group Distribution**
 
-<img src="chart-screenshots/age-group-by-gender.png" width="500" alt="Dashboard">
-
 <img src="chart-screenshots/age-group.png" width="500" alt="Dashboard">
 
 The majority of customers are between 25-34 years old, followed by 35-44 years old.
 
+
+**Age Group by Gender**
+
+<img src="chart-screenshots/age-group-by-gender.png" width="500" alt="Dashboard">
+
+The majority of customers in all age groups are female.
 
 **Total Customers by City**
 
@@ -125,27 +129,28 @@ The Sports category has the highest number of orders, followed by Electronics an
 In terms of price, Electronics items are generally higher priced compared to Sports items.
 
 ### 💳 Payment and Device Analysis
-**Payment Method Distribution**
+**Payment Method by Total Orders**
 
-<img src="chart-screenshots/payment-method.png" width="500" alt="Dashboard">
+<img src="chart-screenshots/payment-method-by-total-orders.png" width="500" alt="Dashboard">
 
 Credit cards are the most preferred payment method, followed by debit cards and digital wallets.
 
-**Payment Method Distribution by Total Sales Amount**
+**Payment Method by Total Sales Amount**
 
 <img src="chart-screenshots/payment-method-by-total-sales.png" width="500" alt="Dashboard">
 
 Credit cards contribute the highest sales amount, followed by debit cards and digital wallets.
 
-**Payment Method Distribution by Product Category**
+**Payment Method by Product Category**
 
 <img src="chart-screenshots/payment-method-by-product-category.png" width="500" alt="Dashboard">
 
-Customers prefer to use credit cards for transactions across all product categories, followed by debit cards and digital wallets.This aligns with their contribution to sales.
+Customers prefer to use credit cards for transactions across all product categories, followed by debit cards and digital wallets. This aligns with their contribution to sales.
 
 **Payment Method by Age**
 
 <img src="chart-screenshots/payment-method-by-age.png" width="500" alt="Dashboard">
+
 
 
 
