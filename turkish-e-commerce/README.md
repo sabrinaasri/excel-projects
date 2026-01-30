@@ -151,7 +151,26 @@ Customers prefer to use credit cards for transactions across all product categor
 
 <img src="chart-screenshots/payment-method-by-age.png" width="500" alt="Dashboard">
 
+Credit cards are the most preffered payment method accross all age groups, followed by debit cards and digital wallets.
 
+**Device Used**
 
+<img src="chart-screenshots/devices-used.png" width="500" alt="Dashboard">
+
+Mobile devices are the most commonly used for purchases, followed by desktops and tablets.
+
+### 💸 Discount Analysis
+**Discounts by Product Category**
+
+<img src="chart-screenshots/total-discount-given.png" width="500" alt="Dashboard">
+
+Discounts are most frequently applied to Electronics, followed by Fashion and Home & Garden.
+Electronics also contributed in the highest sales amount after discounts. That indicates discount strategy is effective in boosting sales for this category.
+
+**Discounts by Age Group**
+
+<img src="chart-screenshots/discount-percentage-by-age.png" width="500" alt="Dashboard">
+
+Electronics is the 
 
 
