@@ -162,15 +162,17 @@ Mobile devices are the most commonly used for purchases, followed by desktops an
 ### 💸 Discount Analysis
 **Discounts by Product Category**
 
-<img src="chart-screenshots/total-discount-given.png" width="500" alt="Dashboard">
+<img src="chart-screenshots/discount-spent-by-customers.png" width="500" alt="Dashboard">
 
-Discounts are most frequently applied to Electronics, followed by Fashion and Home & Garden.
+Customers spent the most on discounts in the Electronics category, followed by Fashion and Home & Garden.
 Electronics also contributed in the highest sales amount after discounts. That indicates discount strategy is effective in boosting sales for this category.
 
 **Discounts by Age Group**
 
-<img src="chart-screenshots/discount-percentage-by-age.png" width="500" alt="Dashboard">
+<img src="chart-screenshots/discount-spent-by-agee.png" width="500" alt="Dashboard">
 
-Electronics is the 
+Age group 30-44 spent the most discount on every category, followed by age group 18-29.
+
+
 
 
