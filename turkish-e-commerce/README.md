@@ -125,8 +125,8 @@ Electronics is the top-selling product category, followed by Fashion and Home & 
 
 <img src="chart-screenshots/total-order-by-product-category.png" width="500" alt="Dashboard">
 
-The Sports category has the highest number of orders, followed by Electronics and Fashion. This indicates that while Electronics generates the most revenue, Sports products are purchased more frequently.
-In terms of price, Electronics items are generally higher priced compared to Sports items.
+The Sports category has the highest number of orders, followed by beauty and books. This indicates that while Sports products are purchased more frequently, but in terms of price, Sports item are generally lower priced compared to Electronics items.
+Thus, Electronics leads in total sales amount.
 
 ### 💳 Payment and Device Analysis
 **Payment Method by Total Orders**
