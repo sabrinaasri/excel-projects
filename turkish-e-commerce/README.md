@@ -20,7 +20,7 @@ Which cities generate the highest sales? How do sales vary across regions?
 
 - Product Category Performance
 
-- Which product categories drive the most revenue? Which categories have the highest order volume?
+Which product categories drive the most revenue? Which categories have the highest order volume?
 What is the average order value? 
 
 - Payment and Device Analysis
