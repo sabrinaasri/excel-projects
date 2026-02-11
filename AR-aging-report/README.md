@@ -53,13 +53,23 @@ In this case I chose a stacked chart and slicer to filter by customer name and a
 
 7. **Create Dashboard**: Arrange the pivot table, chart, and slicer in a dashboard layout for easy analysis.
 
- <img src="screenshots/dashboard" width="" alt="Dashboard">
+ <img src="screenshots/AR-dashboard.png" width="" alt="Dashboard">
 
 
-
-### Conclusion
 By following these steps, you can create an AR aging report that helps in identifying overdue payments and assessing the financial health of the company. The visualizations provide insights into the distribution of outstanding invoices across different aging buckets, allowing for better decision-making and cash flow management.
 
-According to this project
+According to this mini project AR aging report, we can see that the majority of outstanding invoices are in the >90 days past due category. This happens with all customers. This indicates that there may be a significant issue with overdue payments, which could impact the company's cash flow and financial health. It is crucial for the company to take action to address these overdue payments and improve its accounts receivable management.
 
+### Insights:
+- The majority of outstanding invoices are in the >90 days past due category, indicating a significant issue with overdue payments.
+- All customers have invoices in the >90 days past due category, suggesting a widespread issue with payment delays.
+- The company should take action to address these overdue payments and improve its accounts receivable management to enhance cash flow and financial health.
+- By regularly monitoring the AR aging report, the company can identify trends in payment delays and take proactive measures to mitigate risks associated with overdue payments. This may include implementing stricter credit policies, offering incentives for early payments, or improving communication with customers regarding payment terms and due dates.
 
+### Conclusion:
+The AR aging report provides valuable insights into the company's accounts receivable management and helps identify areas for improvement. By categorizing outstanding invoices into aging buckets and visualizing the distribution, the company can better understand its cash flow situation and take necessary actions to address overdue payments. Regularly monitoring the AR aging report is essential for maintaining financial health and ensuring timely collections from customers.
+
+### Future Improvements:
+- Implementing automated reminders for customers with overdue invoices to encourage timely payments.
+- Analyzing the reasons for payment delays and addressing any underlying issues with customers or internal processes.
+- Conducting credit risk assessments for customers to identify potential risks of non-payment and adjust credit terms accordingly.
