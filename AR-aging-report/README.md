@@ -56,9 +56,6 @@ In this case I chose a stacked chart and slicer to filter by customer name and a
  <img src="screenshots/AR-dashboard.png" width="" alt="Dashboard">
 
 
-By following these steps, you can create an AR aging report that helps in identifying overdue payments and assessing the financial health of the company. The visualizations provide insights into the distribution of outstanding invoices across different aging buckets, allowing for better decision-making and cash flow management.
-
-According to this mini project AR aging report, we can see that the majority of outstanding invoices are in the >90 days past due category. This happens with all customers. This indicates that there may be a significant issue with overdue payments, which could impact the company's cash flow and financial health. It is crucial for the company to take action to address these overdue payments and improve its accounts receivable management.
 
 ### Insights:
 - The majority of outstanding invoices are in the >90 days past due category, indicating a significant issue with overdue payments.
